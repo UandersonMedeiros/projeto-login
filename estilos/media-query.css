@@ -12,7 +12,7 @@ Grandes telas: acima de 1200px
 @media screen and (min-width: 768px) and (max-width: 992px) {
 
     body {
-        background-image: linear-gradient(to top, rgba(139, 0, 0, 0.51), lightgrey);
+        background-image: linear-gradient(to top, rgba(143, 18, 18, 0.212), rgba(0, 0, 0, 0.815));
     }
 
     section#login {
@@ -34,7 +34,7 @@ Grandes telas: acima de 1200px
 @media screen and (min-width: 992px) {
 
     body {
-        background-image: linear-gradient(to top, rgba(139, 0, 0, 0.51), lightgrey);
+        background-image: linear-gradient(to top, rgba(143, 18, 18, 0.212), rgba(0, 0, 0, 0.815));
     }
 
     section#login {
